@@ -1,0 +1,34 @@
+{
+  "brand": "Liinky",
+  "tagline": "Scan. Browse. Order.",
+  "brief": "Digital menus and table QR codes for restaurants and cafés. Guests scan the code on their table and the menu opens on their phone. The brand should feel modern, friendly and fast, and stay trustworthy for the owners who buy it.",
+  "adjectives": ["modern", "friendly", "fast", "trustworthy", "playful"],
+  "criteria": "Recognisable at 16 px, works in one colour, avoids the QR-square and fork-and-knife clichés, feels warm rather than corporate.",
+  "mockups": ["app-icon", "website", "favicon-tab", "sticker", "signage", "social"],
+  "nav": ["Features", "Pricing", "For restaurants"],
+  "brand_color": "#E5245E",
+  "greyscale": false,
+  "designer": "Liinky",
+  "round": 2,
+  "concepts": [
+    {
+      "name": "Smile ii",
+      "symbol": "../final/liinky-symbol.svg",
+      "lockup": "../final/liinky-horizontal.svg",
+      "lockup_on_dark": "../final/liinky-horizontal-reversed.svg",
+      "idea": "The two i's of Liinky join at the base into a smile: two guests, one happy table.",
+      "rationale": [
+        "Built from the name itself, so it can't be mistaken for another menu app",
+        "The two dots come back as berry i-dots in the wordmark, which ties symbol and name together",
+        "A heavier small-size version keeps the favicon clear at 16 px",
+        "Berry (#E5245E) is appetising without the tomato orange most food apps use"
+      ]
+    }
+  ],
+  "recommendation": "Smile ii in Berry and Ink: friendly enough for guests, clean enough for restaurant owners.",
+  "next_steps": [
+    "Run a trademark search before launch",
+    "Use the web icon set and head snippet in the app",
+    "Print a test table tent to check the logo next to a real QR code"
+  ]
+}
