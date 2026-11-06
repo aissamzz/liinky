@@ -1,40 +1,31 @@
-# Design brief — Liinky
+# Design brief — Liinky (round 2: loyalty cards)
 
-**Summary**: Liinky is a SaaS that gives restaurants and cafés digital menus and table QR codes, so guests scan,
-browse and order from their own phone.
-**Audience**: Primary: restaurant, café and bar owners and managers (the buyers). Secondary: their guests, who
-meet the mark on table QR stands, stickers, menus and the browser tab of the menu page.
-**Brand adjectives**: modern, friendly, fast, trustworthy, a little playful   **Avoid feeling**: corporate, cold, techy-cryptic
-**Promise / big idea**: Every table is linked to the menu: scan and you're in.
-**Competitive landscape**: Category leans on QR squares, phones, fork-and-knife, cloches, chef hats, speech
-bubbles and smiley faces; colours tend to orange/red food tones or generic SaaS blue. Open territory: a letterform
-built from the name itself (the double "ii" is unusual and ownable).
-**Mark type hypothesis**: Letterform/abstract symbol + custom lowercase wordmark (combination mark). Short name,
-needs an app icon/favicon, so a strong symbol matters.
-**Must work on**: favicon (16 px), app icon, social avatar, printed table tents and QR stickers (small, often
-one colour), next to/inside a QR code, dark and light backgrounds.
-**Constraints**: none given — no existing equity.
-**Success criteria**: recognisable at 16 px; works in one colour; doesn't read as a generic QR/food icon;
-feels friendly rather than corporate.
-**Decision-maker**: founder   **Deliverables**: icon + wordmark lockups, favicon/app-icon set, mini guidelines.
-**Assumptions I made**: no colour preference; lowercase name styling "liinky"; English-first market; logo will
-often sit beside or inside a QR code.
+**Summary**: Liinky is a digital loyalty card app for small businesses: cafés, bakeries, salons, barbers and
+independent shops replace paper stamp cards with a digital card customers keep on their phone.
+**Audience**: Primary: small-business owners (the buyers). Secondary: their customers, who see the mark on the
+counter sticker or QR stand, in the wallet pass and in the app icon.
+**Brand adjectives**: friendly, simple, rewarding, local, trustworthy   **Avoid feeling**: corporate, banky, gimmicky
+**Promise / big idea**: Every visit counts, and customers come back.
+**Category clichés (avoid or reinvent)**: coffee cups, stars, hearts, gift boxes, crowns, percent signs, paper
+punch-cards drawn literally, generic wallet/credit-card icons, purple/gold "rewards" palettes.
+**Mark type hypothesis**: Letterform/abstract symbol built from the name's unusual double "ii", plus a custom
+lowercase wordmark (combination mark).
+**Must work on**: app icon, favicon (16 px), Apple/Google Wallet pass, small counter stickers next to a QR code,
+one-colour print, dark and light backgrounds.
+**Constraints**: no existing equity — the earlier restaurant-menu logo was removed.
+**Success criteria**: recognisable at 16 px; works in one colour; says "stamps/rewards" without a cliché; friendly.
+**Decision-maker**: founder.
+**Assumptions I made**: no colour preference yet; lowercase "liinky"; English-first market.
 
 ## Word map (short)
+- **liinky** → link · double i · two dots · connection
+- **loyalty card** → stamps · progress · next one free · coming back
+- **small business** → local · personal · counter · regulars
+- Intersections: *ii dots = stamps on a card* · *two dots joined = shop and customer linked* · *card with ii = the product*
 
-- **liinky** → link · chain · double i · two dots · two people
-- **table** → two legs + top · shared · seat · tent card
-- **scan** → viewfinder corners · pixel/module · instant
-- **menu** → list · card · choice
-- Intersections: *ii = two guests / two legs of a table* · *two dots joined = a link* · *L corner = scan frame*
+## Round-1 concepts (`concepts/`, overview in `concepts-round1.png`)
+- **A — Next Stamp** (letterform, recommended): the ii dots are stamps — one filled, one waiting.
+- **B — Punch Card** (symbol in container): a card with the ii punched out.
+- **C — Bond** (abstract): two dots above a U link — a connection that also reads as a smile.
 
-## Concept longlist
-
-1. **Shared dot** — the two i's share one capsule dot: two letters linked, and a table on two legs. *(built: A)*
-2. **Smile ii** — the two i stems join at the base into a smile: two guests, one happy table. *(built: B)*
-3. **Scan corner** — an L-shaped viewfinder corner holding a single QR "pixel". *(built: C)*
-4. Two interlocking rounded i-stems forming a chain link (too close to Squarespace/Svelte).
-5. QR finder squares replacing the i-dots (too literal; QR cliché).
-6. Table-tent A-frame profile made of an L (weak at 16 px).
-7. Menu card with two list lines = "ii" (reads as document icon).
-8. Two dots connected by a curved line (generic "connect" icon).
+Concept files use stroked paths for the wordmark; they are converted to outlines in the final kit.
